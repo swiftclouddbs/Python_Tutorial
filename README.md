@@ -5,7 +5,7 @@
    is to paste this script into ChatGPT after typing the question:  what does
    this code do and how do I use it?  <br>
    
-   The AI will explain it to you and tell you how to setup a Python environment
+   The AI will explain it and tell you how to setup a Python environment
    so you can run this script on your vCenter.<br>
 
    You will need to install Python and an IDE to use the code.  IDLE is an
