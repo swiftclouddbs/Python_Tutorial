@@ -4,6 +4,7 @@
    The best way to learn Python, REST and AI code generating capabilities
    is to paste this script into ChatGPT after typing the question:  what does
    this code do and how do I use it?  <br>
+   
    The AI will explain it to you and tell you how to setup a Python environment
    so you can run this script on your vCenter.<br>
 
