@@ -19,4 +19,5 @@
 
    Output goes to a csv file and contains three columns:  vm_id,vm_name,nic_type<br>
    
-   This will give you tools and some insight into using Python, REST and VMWare!
+   This will give you tools and some insight into using Python, REST, VMWare and 
+   AI code generators!!
