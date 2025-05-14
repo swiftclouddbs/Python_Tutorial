@@ -1,5 +1,5 @@
 #
-<h1>Intention here is to introduce REST API to VMWare experts.</h1> <br>
+<h1>REST API Introduction For VMWare Experts.</h1> <br>
 
    The best way to learn Python, REST and AI code generating capabilities
    is to paste this script into ChatGPT after typing the question:  what does
